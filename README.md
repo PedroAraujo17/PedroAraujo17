@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Pedro Araújo</h1>
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning *Software Engineering*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
